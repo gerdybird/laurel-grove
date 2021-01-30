@@ -1,0 +1,38 @@
+body{
+	background-color:#696969;
+}
+
+#containment-wrapper{
+	width:1000px;
+	height:1000px;
+}
+
+#small-window{
+	width:50%;
+	height:25%;
+}
+
+.item{
+	position:absolute;
+	width:150px;
+	
+}
+
+.sticker{
+	position:absolute;
+	width:50px;
+	
+}
+
+.big-thing{
+	position:absolute;
+	width:250px;
+	
+}
+
+.room{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	 width: 40%;
+}
