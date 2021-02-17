@@ -1,5 +1,5 @@
 body{
-	background-color:#aebf58;
+	/*background-color:#aebf58;*/
 }
 
 #containment-wrapper{
@@ -15,7 +15,6 @@ body{
 .item{
 	position:absolute;
 	width:150px;
-	
 }
 
 .sticker{
@@ -28,6 +27,11 @@ body{
 	position:absolute;
 	width:250px;
 	
+}
+
+.monster{
+	position:absolute;
+	height:600px;
 }
 
 .room{
