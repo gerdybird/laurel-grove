@@ -2,9 +2,10 @@ body{
 	/*background-color:#aebf58;*/
 }
 
+/*made your containment-wrapper bigger?*/
 #containment-wrapper{
-	width:1000px;
-	height:1000px;
+	width:2000px;
+	height:2000px;
 }
 
 #small-window{
